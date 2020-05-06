@@ -1,0 +1,524 @@
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleDemo\SampleDemo\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleDemo\SampleDemo\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleDemo\SampleDemo\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleDemo\SampleDemo\bin\Debug\netcoreapp3.1\SampleDemo.exe
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleDemo\SampleDemo\bin\Debug\netcoreapp3.1\SampleDemo.deps.json
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleDemo\SampleDemo\bin\Debug\netcoreapp3.1\SampleDemo.runtimeconfig.json
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleDemo\SampleDemo\bin\Debug\netcoreapp3.1\SampleDemo.runtimeconfig.dev.json
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleDemo\SampleDemo\bin\Debug\netcoreapp3.1\SampleDemo.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleDemo\SampleDemo\bin\Debug\netcoreapp3.1\SampleDemo.pdb
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleDemo\SampleDemo\bin\Debug\netcoreapp3.1\SampleDemo.Views.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleDemo\SampleDemo\obj\Debug\netcoreapp3.1\SampleDemo.csprojAssemblyReference.cache
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleDemo\SampleDemo\obj\Debug\netcoreapp3.1\staticwebassets\SampleDemo.StaticWebAssets.Manifest.cache
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleDemo\SampleDemo\obj\Debug\netcoreapp3.1\staticwebassets\SampleDemo.StaticWebAssets.xml
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleDemo\SampleDemo\obj\Debug\netcoreapp3.1\SampleDemo.AssemblyInfoInputs.cache
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleDemo\SampleDemo\obj\Debug\netcoreapp3.1\SampleDemo.AssemblyInfo.cs
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleDemo\SampleDemo\obj\Debug\netcoreapp3.1\SampleDemo.RazorTargetAssemblyInfo.cache
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleDemo\SampleDemo\obj\Debug\netcoreapp3.1\SampleDemo.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleDemo\SampleDemo\obj\Debug\netcoreapp3.1\SampleDemo.pdb
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleDemo\SampleDemo\obj\Debug\netcoreapp3.1\SampleDemo.csproj.CopyComplete
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleDemo\SampleDemo\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleDemo\SampleDemo\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleDemo\SampleDemo\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleDemo\SampleDemo\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleDemo\SampleDemo\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleDemo\SampleDemo\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleDemo\SampleDemo\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleDemo\SampleDemo\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleDemo\SampleDemo\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleDemo\SampleDemo\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleDemo\SampleDemo\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleDemo\SampleDemo\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleDemo\SampleDemo\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleDemo\SampleDemo\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleDemo\SampleDemo\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleDemo\SampleDemo\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleDemo\SampleDemo\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleDemo\SampleDemo\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleDemo\SampleDemo\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleDemo\SampleDemo\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleDemo\SampleDemo\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleDemo\SampleDemo\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleDemo\SampleDemo\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleDemo\SampleDemo\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleDemo\SampleDemo\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleDemo\SampleDemo\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleDemo\SampleDemo\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleDemo\SampleDemo\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleDemo\SampleDemo\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleDemo\SampleDemo\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleDemo\SampleDemo\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleDemo\SampleDemo\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleDemo\SampleDemo\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleDemo\SampleDemo\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleDemo\SampleDemo\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleDemo\SampleDemo\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleDemo\SampleDemo\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleDemo\SampleDemo\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleDemo\SampleDemo\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleDemo\SampleDemo\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleDemo\SampleDemo\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleDemo\SampleDemo\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleDemo\SampleDemo\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleDemo\SampleDemo\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleDemo\SampleDemo\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleDemo\SampleDemo\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleDemo\SampleDemo\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleDemo\SampleDemo\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleDemo\SampleDemo\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleDemo\SampleDemo\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleDemo\SampleDemo\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleDemo\SampleDemo\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleDemo\SampleDemo\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleDemo\SampleDemo\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleDemo\SampleDemo\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleDemo\SampleDemo\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleDemo\SampleDemo\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleDemo\SampleDemo\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleDemo\SampleDemo\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleDemo\SampleDemo\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleDemo\SampleDemo\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleDemo\SampleDemo\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleDemo\SampleDemo\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleDemo\SampleDemo\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleDemo\SampleDemo\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleDemo\SampleDemo\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleDemo\SampleDemo\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleDemo\SampleDemo\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleDemo\SampleDemo\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleDemo\SampleDemo\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleDemo\SampleDemo\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleDemo\SampleDemo\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleDemo\SampleDemo\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleDemo\SampleDemo\bin\Debug\netcoreapp3.1\SampleDemo.Views.pdb
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleDemo\SampleDemo\obj\Debug\netcoreapp3.1\SampleDemo.RazorAssemblyInfo.cache
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleDemo\SampleDemo\obj\Debug\netcoreapp3.1\SampleDemo.RazorAssemblyInfo.cs
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleDemo\SampleDemo\obj\Debug\netcoreapp3.1\SampleDemo.TagHelpers.input.cache
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleDemo\SampleDemo\obj\Debug\netcoreapp3.1\SampleDemo.TagHelpers.output.cache
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleDemo\SampleDemo\obj\Debug\netcoreapp3.1\SampleDemo.RazorCoreGenerate.cache
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleDemo\SampleDemo\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleDemo\SampleDemo\obj\Debug\netcoreapp3.1\SampleDemo.RazorTargetAssemblyInfo.cs
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleDemo\SampleDemo\obj\Debug\netcoreapp3.1\SampleDemo.Views.pdb
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleDemo\SampleDemo\obj\Debug\netcoreapp3.1\Razor\Views\Demo\Index.cshtml.g.cs
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleDemo\SampleDemo\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleDemo\SampleDemo\obj\Debug\netcoreapp3.1\Razor\Views\Demo\ShowData.cshtml.g.cs
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleDemo\SampleDemo\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleDemo\SampleDemo\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleDemo\SampleDemo\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleDemo\SampleDemo\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleDemo\SampleDemo\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleDemo\SampleDemo\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleDemo\SampleDemo\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleDemo\SampleDemo\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleDemo\SampleDemo\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleDemo\SampleDemo\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleDemo\SampleDemo\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleDemo\SampleDemo\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleDemo\SampleDemo\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleDemo\SampleDemo\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleDemo\SampleDemo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleDemo\SampleDemo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleDemo\SampleDemo\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleDemo\SampleDemo\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleDemo\SampleDemo\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleDemo\SampleDemo\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleDemo\SampleDemo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleDemo\SampleDemo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleDemo\SampleDemo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleDemo\SampleDemo\obj\Debug\netcoreapp3.1\SampleDemo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleDemo\SampleDemo\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleDemo\SampleDemo\obj\Debug\netcoreapp3.1\Razor\Views\Demo\Create.cshtml.g.cs
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleDemo\SampleDemo\obj\Debug\netcoreapp3.1\Razor\Views\Demo\Edit.cshtml.g.cs
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleDemo\SampleDemo\obj\Debug\netcoreapp3.1\Razor\Views\Demo\Detail.cshtml.g.cs
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleSQLServerDemo\SampleSQLServerDemo\obj\Debug\netcoreapp3.1\SampleDemo.csprojAssemblyReference.cache
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleSQLServerDemo\SampleSQLServerDemo\obj\Debug\netcoreapp3.1\staticwebassets\SampleDemo.StaticWebAssets.Manifest.cache
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleSQLServerDemo\SampleSQLServerDemo\obj\Debug\netcoreapp3.1\staticwebassets\SampleDemo.StaticWebAssets.xml
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleSQLServerDemo\SampleSQLServerDemo\obj\Debug\netcoreapp3.1\SampleDemo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleSQLServerDemo\SampleSQLServerDemo\obj\Debug\netcoreapp3.1\SampleDemo.RazorAssemblyInfo.cache
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleSQLServerDemo\SampleSQLServerDemo\obj\Debug\netcoreapp3.1\SampleDemo.RazorAssemblyInfo.cs
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleSQLServerDemo\SampleSQLServerDemo\obj\Debug\netcoreapp3.1\SampleDemo.AssemblyInfoInputs.cache
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleSQLServerDemo\SampleSQLServerDemo\obj\Debug\netcoreapp3.1\SampleDemo.AssemblyInfo.cs
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleSQLServerDemo\SampleSQLServerDemo\obj\Debug\netcoreapp3.1\SampleDemo.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleSQLServerDemo\SampleSQLServerDemo\obj\Debug\netcoreapp3.1\SampleDemo.pdb
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\SampleDemo.exe
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\SampleDemo.deps.json
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\SampleDemo.runtimeconfig.json
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\SampleDemo.runtimeconfig.dev.json
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\SampleDemo.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\SampleDemo.pdb
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\SampleDemo.Views.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\SampleDemo.Views.pdb
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleSQLServerDemo\SampleSQLServerDemo\obj\Debug\netcoreapp3.1\SampleDemo.TagHelpers.input.cache
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleSQLServerDemo\SampleSQLServerDemo\obj\Debug\netcoreapp3.1\SampleDemo.TagHelpers.output.cache
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleSQLServerDemo\SampleSQLServerDemo\obj\Debug\netcoreapp3.1\SampleDemo.RazorCoreGenerate.cache
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleSQLServerDemo\SampleSQLServerDemo\obj\Debug\netcoreapp3.1\Razor\Views\Demo\Create.cshtml.g.cs
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleSQLServerDemo\SampleSQLServerDemo\obj\Debug\netcoreapp3.1\Razor\Views\Demo\Detail.cshtml.g.cs
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleSQLServerDemo\SampleSQLServerDemo\obj\Debug\netcoreapp3.1\Razor\Views\Demo\Edit.cshtml.g.cs
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleSQLServerDemo\SampleSQLServerDemo\obj\Debug\netcoreapp3.1\Razor\Views\Demo\Index.cshtml.g.cs
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleSQLServerDemo\SampleSQLServerDemo\obj\Debug\netcoreapp3.1\Razor\Views\Demo\ShowData.cshtml.g.cs
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleSQLServerDemo\SampleSQLServerDemo\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleSQLServerDemo\SampleSQLServerDemo\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleSQLServerDemo\SampleSQLServerDemo\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleSQLServerDemo\SampleSQLServerDemo\obj\Debug\netcoreapp3.1\SampleDemo.RazorTargetAssemblyInfo.cache
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleSQLServerDemo\SampleSQLServerDemo\obj\Debug\netcoreapp3.1\SampleDemo.RazorTargetAssemblyInfo.cs
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleSQLServerDemo\SampleSQLServerDemo\obj\Debug\netcoreapp3.1\SampleDemo.Views.pdb
+C:\Users\Stevie\Documents\IS 290 650 C# Frameworks .NET Web App Framework\SampleSQLServerDemo\SampleSQLServerDemo\obj\Debug\netcoreapp3.1\SampleDemo.csproj.CopyComplete
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\SampleDemo.exe
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\SampleDemo.deps.json
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\SampleDemo.runtimeconfig.json
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\SampleDemo.runtimeconfig.dev.json
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\SampleDemo.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\SampleDemo.pdb
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\SampleDemo.Views.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\SampleDemo.Views.pdb
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\SampleSQLServerDemo\obj\Debug\netcoreapp3.1\SampleDemo.csprojAssemblyReference.cache
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\SampleSQLServerDemo\obj\Debug\netcoreapp3.1\SampleDemo.csproj.CoreCompileInputs.cache
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\SampleSQLServerDemo\obj\Debug\netcoreapp3.1\SampleDemo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\SampleSQLServerDemo\obj\Debug\netcoreapp3.1\SampleDemo.RazorAssemblyInfo.cache
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\SampleSQLServerDemo\obj\Debug\netcoreapp3.1\SampleDemo.RazorAssemblyInfo.cs
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\SampleSQLServerDemo\obj\Debug\netcoreapp3.1\SampleDemo.AssemblyInfoInputs.cache
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\SampleSQLServerDemo\obj\Debug\netcoreapp3.1\SampleDemo.AssemblyInfo.cs
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\SampleSQLServerDemo\obj\Debug\netcoreapp3.1\SampleDemo.TagHelpers.input.cache
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\SampleSQLServerDemo\obj\Debug\netcoreapp3.1\SampleDemo.TagHelpers.output.cache
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\SampleSQLServerDemo\obj\Debug\netcoreapp3.1\SampleDemo.RazorCoreGenerate.cache
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\SampleSQLServerDemo\obj\Debug\netcoreapp3.1\Razor\Views\Demo\Create.cshtml.g.cs
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\SampleSQLServerDemo\obj\Debug\netcoreapp3.1\Razor\Views\Demo\Detail.cshtml.g.cs
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\SampleSQLServerDemo\obj\Debug\netcoreapp3.1\Razor\Views\Demo\Edit.cshtml.g.cs
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\SampleSQLServerDemo\obj\Debug\netcoreapp3.1\Razor\Views\Demo\Index.cshtml.g.cs
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\SampleSQLServerDemo\obj\Debug\netcoreapp3.1\Razor\Views\Demo\ShowData.cshtml.g.cs
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\SampleSQLServerDemo\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\SampleSQLServerDemo\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\SampleSQLServerDemo\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\SampleSQLServerDemo\obj\Debug\netcoreapp3.1\SampleDemo.RazorTargetAssemblyInfo.cache
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\SampleSQLServerDemo\obj\Debug\netcoreapp3.1\SampleDemo.RazorTargetAssemblyInfo.cs
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\SampleSQLServerDemo\obj\Debug\netcoreapp3.1\SampleDemo.Views.pdb
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\SampleSQLServerDemo\obj\Debug\netcoreapp3.1\SampleDemo.csproj.CopyComplete
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\SampleSQLServerDemo\obj\Debug\netcoreapp3.1\staticwebassets\SampleDemo.StaticWebAssets.Manifest.cache
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\SampleSQLServerDemo\obj\Debug\netcoreapp3.1\staticwebassets\SampleDemo.StaticWebAssets.xml
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\SampleSQLServerDemo\obj\Debug\netcoreapp3.1\SampleDemo.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\SampleSQLServerDemo\obj\Debug\netcoreapp3.1\SampleDemo.pdb
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\SampleSQLServerDemo\obj\Debug\netcoreapp3.1\SampleDemo.genruntimeconfig.cache
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\SampleSQLServerDemo\obj\Debug\netcoreapp3.1\Razor\Views\Album\Index.cshtml.g.cs
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\IS290_650_FinalProject\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\IS290_650_FinalProject\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\IS290_650_FinalProject\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\IS290_650_FinalProject\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\SampleDemo.exe
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\IS290_650_FinalProject\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\SampleDemo.deps.json
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\IS290_650_FinalProject\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\SampleDemo.runtimeconfig.json
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\IS290_650_FinalProject\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\SampleDemo.runtimeconfig.dev.json
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\IS290_650_FinalProject\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\SampleDemo.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\IS290_650_FinalProject\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\SampleDemo.pdb
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\IS290_650_FinalProject\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\SampleDemo.Views.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\IS290_650_FinalProject\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\SampleDemo.Views.pdb
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\IS290_650_FinalProject\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\IS290_650_FinalProject\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\IS290_650_FinalProject\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\IS290_650_FinalProject\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\IS290_650_FinalProject\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\IS290_650_FinalProject\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\IS290_650_FinalProject\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\IS290_650_FinalProject\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\IS290_650_FinalProject\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\IS290_650_FinalProject\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\IS290_650_FinalProject\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\IS290_650_FinalProject\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\IS290_650_FinalProject\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\IS290_650_FinalProject\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\IS290_650_FinalProject\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\IS290_650_FinalProject\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\IS290_650_FinalProject\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\IS290_650_FinalProject\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\IS290_650_FinalProject\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\IS290_650_FinalProject\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\IS290_650_FinalProject\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\IS290_650_FinalProject\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\IS290_650_FinalProject\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\IS290_650_FinalProject\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\IS290_650_FinalProject\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\IS290_650_FinalProject\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\IS290_650_FinalProject\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\IS290_650_FinalProject\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\IS290_650_FinalProject\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\IS290_650_FinalProject\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\IS290_650_FinalProject\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\IS290_650_FinalProject\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\IS290_650_FinalProject\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\IS290_650_FinalProject\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\IS290_650_FinalProject\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\IS290_650_FinalProject\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\IS290_650_FinalProject\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\IS290_650_FinalProject\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\IS290_650_FinalProject\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\IS290_650_FinalProject\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\IS290_650_FinalProject\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\IS290_650_FinalProject\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\IS290_650_FinalProject\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\IS290_650_FinalProject\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\IS290_650_FinalProject\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\IS290_650_FinalProject\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\IS290_650_FinalProject\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\IS290_650_FinalProject\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\IS290_650_FinalProject\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\IS290_650_FinalProject\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\IS290_650_FinalProject\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\IS290_650_FinalProject\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\IS290_650_FinalProject\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\IS290_650_FinalProject\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\IS290_650_FinalProject\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\IS290_650_FinalProject\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\IS290_650_FinalProject\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\IS290_650_FinalProject\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\IS290_650_FinalProject\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\IS290_650_FinalProject\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\IS290_650_FinalProject\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\IS290_650_FinalProject\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\IS290_650_FinalProject\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\IS290_650_FinalProject\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\IS290_650_FinalProject\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\IS290_650_FinalProject\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\IS290_650_FinalProject\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\IS290_650_FinalProject\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\IS290_650_FinalProject\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\IS290_650_FinalProject\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\IS290_650_FinalProject\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\IS290_650_FinalProject\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\IS290_650_FinalProject\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\IS290_650_FinalProject\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\IS290_650_FinalProject\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\IS290_650_FinalProject\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\IS290_650_FinalProject\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\IS290_650_FinalProject\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\IS290_650_FinalProject\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\IS290_650_FinalProject\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\IS290_650_FinalProject\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\IS290_650_FinalProject\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\IS290_650_FinalProject\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\IS290_650_FinalProject\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\IS290_650_FinalProject\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\IS290_650_FinalProject\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\IS290_650_FinalProject\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\IS290_650_FinalProject\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\IS290_650_FinalProject\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\IS290_650_FinalProject\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\IS290_650_FinalProject\SampleSQLServerDemo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\IS290_650_FinalProject\SampleSQLServerDemo\obj\Debug\netcoreapp3.1\SampleDemo.csprojAssemblyReference.cache
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\IS290_650_FinalProject\SampleSQLServerDemo\obj\Debug\netcoreapp3.1\SampleDemo.csproj.CoreCompileInputs.cache
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\IS290_650_FinalProject\SampleSQLServerDemo\obj\Debug\netcoreapp3.1\SampleDemo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\IS290_650_FinalProject\SampleSQLServerDemo\obj\Debug\netcoreapp3.1\SampleDemo.RazorAssemblyInfo.cache
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\IS290_650_FinalProject\SampleSQLServerDemo\obj\Debug\netcoreapp3.1\SampleDemo.RazorAssemblyInfo.cs
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\IS290_650_FinalProject\SampleSQLServerDemo\obj\Debug\netcoreapp3.1\SampleDemo.AssemblyInfoInputs.cache
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\IS290_650_FinalProject\SampleSQLServerDemo\obj\Debug\netcoreapp3.1\SampleDemo.AssemblyInfo.cs
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\IS290_650_FinalProject\SampleSQLServerDemo\obj\Debug\netcoreapp3.1\SampleDemo.TagHelpers.input.cache
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\IS290_650_FinalProject\SampleSQLServerDemo\obj\Debug\netcoreapp3.1\SampleDemo.TagHelpers.output.cache
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\IS290_650_FinalProject\SampleSQLServerDemo\obj\Debug\netcoreapp3.1\SampleDemo.RazorCoreGenerate.cache
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\IS290_650_FinalProject\SampleSQLServerDemo\obj\Debug\netcoreapp3.1\Razor\Views\Album\Index.cshtml.g.cs
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\IS290_650_FinalProject\SampleSQLServerDemo\obj\Debug\netcoreapp3.1\Razor\Views\Demo\Create.cshtml.g.cs
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\IS290_650_FinalProject\SampleSQLServerDemo\obj\Debug\netcoreapp3.1\Razor\Views\Demo\Detail.cshtml.g.cs
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\IS290_650_FinalProject\SampleSQLServerDemo\obj\Debug\netcoreapp3.1\Razor\Views\Demo\Edit.cshtml.g.cs
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\IS290_650_FinalProject\SampleSQLServerDemo\obj\Debug\netcoreapp3.1\Razor\Views\Demo\Index.cshtml.g.cs
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\IS290_650_FinalProject\SampleSQLServerDemo\obj\Debug\netcoreapp3.1\Razor\Views\Demo\ShowData.cshtml.g.cs
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\IS290_650_FinalProject\SampleSQLServerDemo\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\IS290_650_FinalProject\SampleSQLServerDemo\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\IS290_650_FinalProject\SampleSQLServerDemo\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\IS290_650_FinalProject\SampleSQLServerDemo\obj\Debug\netcoreapp3.1\SampleDemo.RazorTargetAssemblyInfo.cache
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\IS290_650_FinalProject\SampleSQLServerDemo\obj\Debug\netcoreapp3.1\SampleDemo.RazorTargetAssemblyInfo.cs
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\IS290_650_FinalProject\SampleSQLServerDemo\obj\Debug\netcoreapp3.1\SampleDemo.Views.pdb
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\IS290_650_FinalProject\SampleSQLServerDemo\obj\Debug\netcoreapp3.1\SampleDemo.csproj.CopyComplete
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\IS290_650_FinalProject\SampleSQLServerDemo\obj\Debug\netcoreapp3.1\staticwebassets\SampleDemo.StaticWebAssets.Manifest.cache
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\IS290_650_FinalProject\SampleSQLServerDemo\obj\Debug\netcoreapp3.1\staticwebassets\SampleDemo.StaticWebAssets.xml
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\IS290_650_FinalProject\SampleSQLServerDemo\obj\Debug\netcoreapp3.1\SampleDemo.dll
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\IS290_650_FinalProject\SampleSQLServerDemo\obj\Debug\netcoreapp3.1\SampleDemo.pdb
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\IS290_650_FinalProject\SampleSQLServerDemo\obj\Debug\netcoreapp3.1\SampleDemo.genruntimeconfig.cache
