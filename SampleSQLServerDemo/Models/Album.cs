@@ -13,13 +13,13 @@ namespace SampleDemo.Models
         public int AlbumID { get; set; }
 
         //[Required(ErrorMessage ="Album Name is required.")]
-        [AllowNull]
+
+        [Required(ErrorMessage = "Album Name is required.")]
         public string AlbumName { get; set; }
 
         //[Required(ErrorMessage ="Year is required.")]
         [AllowNull]
-        [DataType(DataType.Date)]
-        public DateTime? Year { get; set; }
+        public int Year { get; set; }
 
         //[Required(ErrorMessage="Genre is required.")]
         [AllowNull]
