@@ -522,3 +522,4 @@ C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\Sa
 C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\IS290_650_FinalProject\SampleSQLServerDemo\obj\Debug\netcoreapp3.1\SampleDemo.dll
 C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\IS290_650_FinalProject\SampleSQLServerDemo\obj\Debug\netcoreapp3.1\SampleDemo.pdb
 C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\IS290_650_FinalProject\SampleSQLServerDemo\obj\Debug\netcoreapp3.1\SampleDemo.genruntimeconfig.cache
+C:\Users\Crocus_Sativas\Desktop\Kathlyn\School\IS290_650\SampleSQLServerDemo2\SampleSQLServerDemo\IS290_650_FinalProject\SampleSQLServerDemo\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
