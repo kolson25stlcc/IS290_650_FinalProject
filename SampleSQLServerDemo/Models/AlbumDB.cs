@@ -118,8 +118,8 @@ namespace SampleDemo.Models
                     {
                         cmd.Parameters.AddWithValue("@album_id", objModel.AlbumID);
                         cmd.Parameters.AddWithValue("@album_name", objModel.AlbumName);
-                        cmd.Parameters.AddWithValue("@year", objModel.Year); //?? Convert.DBNull);
-                        cmd.Parameters.AddWithValue("@genre", objModel.Genre); // ?? Convert.DBNull);
+                        cmd.Parameters.AddWithValue("@year", objModel.Year);
+                        cmd.Parameters.AddWithValue("@genre", objModel.Genre ?? Convert.DBNull);
 
                         rowsAffected = cmd.ExecuteNonQuery();
                     }
@@ -162,7 +162,7 @@ namespace SampleDemo.Models
                     {
                         cmd.Parameters.AddWithValue("@ablum_name", objModel.AlbumName);
                         cmd.Parameters.AddWithValue("@year", objModel.Year);
-                        cmd.Parameters.AddWithValue("@genre", objModel.Genre);
+                        cmd.Parameters.AddWithValue("@genre", objModel.Genre ?? Convert.DBNull);
                         cmd.Parameters.AddWithValue("@album_id", objModel.AlbumID);
 
                         rowsAffected = cmd.ExecuteNonQuery();
