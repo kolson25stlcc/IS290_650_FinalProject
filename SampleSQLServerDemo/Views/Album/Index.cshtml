@@ -1,66 +1,66 @@
-﻿    @model IEnumerable<SampleDemo.Models.Album>
+﻿@model IEnumerable<SampleDemo.Models.Album>
 
-    @{
-        Layout = null;
-    }
+@{
+    Layout = null;
+}
 
-    <!DOCTYPE html>
+<!DOCTYPE html>
 
-    <html>
-    <head>
-        <meta name="viewport" content="width=device-width" />
-        <title>Demo of Albums from my local SQL Server database</title>
-    </head>
-    <body>
-        <p>
-            <a asp-action="Create">Create New</a>
-        </p>
-        <table class="table">
-            <thead>
-                <tr>
-                    <th>
-                        @Html.DisplayNameFor(model => model.AlbumID)
-                    </th>
-                    <th>
-                        @Html.DisplayNameFor(model => model.AlbumName)
-                    </th>
-                    <th>
-                        @Html.DisplayNameFor(model => model.Year)
-                    </th>
-                    <th>
-                        @Html.DisplayNameFor(model => model.Genre)
-                    </th>
-                    <th></th>
-                </tr>
-            </thead>
-            <tbody>
-                @foreach (var item in Model)
-                {
-                    <tr>
-                        <td>
-                            @Html.DisplayFor(modelItem => item.AlbumID)
-                        </td>
-                        <td>
-                            @Html.DisplayFor(modelItem => item.AlbumName)
-                        </td>
-                        <td>
-                            @Html.DisplayFor(modelItem => item.Year)
-                        </td>
-                        <td>
-                            @Html.DisplayFor(modelItem => item.Genre)
-                        </td>
-                        <td>
-                            @Html.ActionLink("Edit", "Edit", new { id = item.AlbumID }) |
-                            @Html.ActionLink("Detail", "Detail", new { id = item.AlbumID }) |
-                            @Html.ActionLink("Delete", "Delete", new { id = item.AlbumID }, new { onclick = "return confirm('Are you sure you want to delete?');" })
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Demo of Albums from my local SQL Server database</title>
+</head>
+<body>
+    <p>
+        <a asp-action="Create">Create New</a>
+    </p>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.AlbumID)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.AlbumName)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Year)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Genre)
+                </th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.AlbumID)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.AlbumName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Year)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Genre)
+                </td>
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { id = item.AlbumID }) |
+                    @Html.ActionLink("Detail", "Detail", new { id = item.AlbumID }) |
+                    @Html.ActionLink("Delete", "Delete", new { id = item.AlbumID }, new { onclick = "return confirm('Are sure wants to delete?');" })
 
-                            @*@Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
-                                @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
-                                @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })*@
-                        </td>
-                    </tr>
-                }
-            </tbody>
-        </table>
-    </body>
-</html>
+                    @*@Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
+            @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
+            @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })*@
+                </td>
+            </tr>
+            }
+        </tbody>
+    </table>
+</body>
+</html>>

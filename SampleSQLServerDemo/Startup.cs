@@ -51,7 +51,7 @@ namespace SampleDemo
                 endpoints.MapControllerRoute(
                     name: "default",
                    // pattern: "{controller=Home}/{action=Index}/{id?}");
-                   pattern: "{controller=demo}/{action=Index}/{id?}");
+                   pattern: "{controller=album}/{action=Index}/{id?}");
             });
         }
     }
